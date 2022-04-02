@@ -1,0 +1,1 @@
+a script that prints out the current working directory
